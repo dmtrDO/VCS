@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074108 +0300	commit (initial): intial commit
+f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 0000000000000000000000000000000000000000 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074127 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074127 +0300	Branch: renamed refs/heads/master to refs/heads/main
+f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074171 +0300	checkout: moving from main to featrue/login
+f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 380cc5437c392a8f98887bbceb45a4900567b091 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074282 +0300	commit: initial commit from feature/login
+380cc5437c392a8f98887bbceb45a4900567b091 f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074304 +0300	checkout: moving from featrue/login to main
+f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 42f8f1aed9a7403efe9b7e6be454b675eaad2ed3 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074366 +0300	commit: conflict from main
+42f8f1aed9a7403efe9b7e6be454b675eaad2ed3 380cc5437c392a8f98887bbceb45a4900567b091 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074511 +0300	checkout: moving from main to feature/login
+380cc5437c392a8f98887bbceb45a4900567b091 e96d8ea56488ee9dd0909608451a162f53aa9c14 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074573 +0300	commit: login form
+e96d8ea56488ee9dd0909608451a162f53aa9c14 42f8f1aed9a7403efe9b7e6be454b675eaad2ed3 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074579 +0300	checkout: moving from feature/login to main
+42f8f1aed9a7403efe9b7e6be454b675eaad2ed3 105191301d714cc02cb7592c4c943beb0d7ee907 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074601 +0300	commit: hello from main
+105191301d714cc02cb7592c4c943beb0d7ee907 105191301d714cc02cb7592c4c943beb0d7ee907 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074636 +0300	checkout: moving from main to main
+105191301d714cc02cb7592c4c943beb0d7ee907 1a3704dc8c7deee8dff2230510fa13c596e17bcd dmtrDO <dmytro.domaratskiy@gmail.com> 1790074717 +0300	commit (merge): Merge branch 'feature/login'
+1a3704dc8c7deee8dff2230510fa13c596e17bcd 86b4fa22c91d909ec3a8f6692df35569a12a31bf dmtrDO <dmytro.domaratskiy@gmail.com> 1790078308 +0300	commit: modified README.md for practice 1
+86b4fa22c91d909ec3a8f6692df35569a12a31bf 86b4fa22c91d909ec3a8f6692df35569a12a31bf dmtrDO <dmytro.domaratskiy@gmail.com> 1790078380 +0300	checkout: moving from main to main
+86b4fa22c91d909ec3a8f6692df35569a12a31bf e96d8ea56488ee9dd0909608451a162f53aa9c14 dmtrDO <dmytro.domaratskiy@gmail.com> 1790078391 +0300	checkout: moving from main to feature/login
+e96d8ea56488ee9dd0909608451a162f53aa9c14 86b4fa22c91d909ec3a8f6692df35569a12a31bf dmtrDO <dmytro.domaratskiy@gmail.com> 1790078396 +0300	checkout: moving from feature/login to main
+86b4fa22c91d909ec3a8f6692df35569a12a31bf 794a4fdf77fe18f80c1f28c182fa714de490fbde dmtrDO <dmytro.domaratskiy@gmail.com> 1790079809 +0300	commit: finish README.md

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074171 +0300	branch: Created from HEAD
+f3aa15260f9a3c8e4ae6b91c4ebbda1ad507fa67 380cc5437c392a8f98887bbceb45a4900567b091 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074282 +0300	commit: initial commit from feature/login
+380cc5437c392a8f98887bbceb45a4900567b091 380cc5437c392a8f98887bbceb45a4900567b091 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074505 +0300	Branch: renamed refs/heads/featrue/login to refs/heads/feature/login
+380cc5437c392a8f98887bbceb45a4900567b091 e96d8ea56488ee9dd0909608451a162f53aa9c14 dmtrDO <dmytro.domaratskiy@gmail.com> 1790074573 +0300	commit: login form
